@@ -53,28 +53,28 @@
 
 长春
 
-哈尔滨
+哈尔滨 https://github.com/BetterBetterChina/CityDeveloping/issues/17
 
 
 3、华东地区：
 
-长三角城市群
+长三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/2
 
-上海
+上海 https://github.com/BetterBetterChina/CityDeveloping/issues/2
 
 南京
 
-杭州
+浙江湾 杭州 https://github.com/BetterBetterChina/CityDeveloping/issues/14
 
-合肥
+合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
 
 福州
 
-厦门
+厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/13
 
 南昌
 
-济南
+济南 https://github.com/BetterBetterChina/CityDeveloping/issues/16
 
 青岛
 
@@ -87,7 +87,7 @@
 
 4、中南地区：
 
-珠三角城市群
+粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
 
 海南特区
 
@@ -102,8 +102,9 @@
 
 南京
 
-
 海口
+
+三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
 
 深圳
 
