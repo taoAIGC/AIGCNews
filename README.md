@@ -34,7 +34,7 @@
 
 京津冀城市群
 
-北京
+北京 https://github.com/BetterBetterChina/CityDeveloping/issues/20
 
 天津
 
@@ -49,7 +49,7 @@
 
 沈阳
 
-大连
+大连 https://github.com/BetterBetterChina/CityDeveloping/issues/23
 
 长春
 
@@ -60,7 +60,7 @@
 
 长三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/2
 
-上海 https://github.com/BetterBetterChina/CityDeveloping/issues/2
+上海 https://github.com/BetterBetterChina/CityDeveloping/issues/22
 
 南京
 
@@ -70,7 +70,7 @@
 
 福州
 
-厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/13
+厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
 
 南昌
 
@@ -78,11 +78,7 @@
 
 青岛
 
-宁波
-
-夏门
-
-青岛
+宁波 https://github.com/BetterBetterChina/CityDeveloping/issues/18
 
 
 4、中南地区：
@@ -92,15 +88,15 @@
 海南特区
 
 
-郑州
+郑州 https://github.com/BetterBetterChina/CityDeveloping/issues/19
 
-武汉
+武汉 https://github.com/BetterBetterChina/CityDeveloping/issues/1
 
 长沙
 
-广州
+广州 https://github.com/BetterBetterChina/CityDeveloping/issues/11
 
-南京
+南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
 
 海口
 
@@ -118,15 +114,15 @@
 
 5、西南地区：
 
-成渝城市群
+成渝城市群 西部大开发 https://github.com/BetterBetterChina/CityDeveloping/issues/4
 
-重庆
+重庆 https://github.com/BetterBetterChina/CityDeveloping/issues/7
 
-成都
+成都 https://github.com/BetterBetterChina/CityDeveloping/issues/9
 
 贵阳
 
-昆明
+昆明 https://github.com/BetterBetterChina/CityDeveloping/issues/6
 
 拉萨
 
