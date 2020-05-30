@@ -36,6 +36,8 @@
 
 北京 https://github.com/BetterBetterChina/CityDeveloping/issues/20
 
+雄安 https://github.com/BetterBetterChina/CityDeveloping/issues/29
+
 天津
 
 石家庄
@@ -51,7 +53,7 @@
 
 大连 https://github.com/BetterBetterChina/CityDeveloping/issues/23
 
-长春
+长春 https://github.com/BetterBetterChina/CityDeveloping/issues/28
 
 哈尔滨 https://github.com/BetterBetterChina/CityDeveloping/issues/17
 
@@ -85,7 +87,7 @@
 
 粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
 
-海南特区
+海南特区 https://github.com/BetterBetterChina/CityDeveloping/issues/30
 
 
 郑州 https://github.com/BetterBetterChina/CityDeveloping/issues/19
@@ -102,7 +104,7 @@
 
 三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
 
-深圳
+深圳 https://github.com/BetterBetterChina/CityDeveloping/issues/26
 
 珠海
 
@@ -128,7 +130,7 @@
 
 6、西北地区：
 
-西安
+西安 https://github.com/BetterBetterChina/CityDeveloping/issues/27
 
 兰州
 
