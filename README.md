@@ -78,7 +78,7 @@
 
 济南 https://github.com/BetterBetterChina/CityDeveloping/issues/16
 
-青岛
+青岛 https://github.com/BetterBetterChina/CityDeveloping/issues/32
 
 宁波 https://github.com/BetterBetterChina/CityDeveloping/issues/18
 
@@ -132,7 +132,7 @@
 
 西安 https://github.com/BetterBetterChina/CityDeveloping/issues/27
 
-兰州
+兰州 https://github.com/BetterBetterChina/CityDeveloping/issues/33
 
 西宁
 
