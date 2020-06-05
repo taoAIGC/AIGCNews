@@ -32,7 +32,7 @@
 
 1、华北地区：
 
-京津冀城市群
+京津冀城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/34
 
 北京 https://github.com/BetterBetterChina/CityDeveloping/issues/20
 
