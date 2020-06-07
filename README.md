@@ -128,6 +128,8 @@
 
 拉萨
 
+南宁 https://github.com/BetterBetterChina/CityDeveloping/issues/35
+
 6、西北地区：
 
 西安 https://github.com/BetterBetterChina/CityDeveloping/issues/27
