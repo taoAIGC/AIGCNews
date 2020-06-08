@@ -87,8 +87,7 @@
 
 粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
 
-海南特区 https://github.com/BetterBetterChina/CityDeveloping/issues/30
-
+海南特区 海口 https://github.com/BetterBetterChina/CityDeveloping/issues/30
 
 郑州 https://github.com/BetterBetterChina/CityDeveloping/issues/19
 
@@ -100,7 +99,6 @@
 
 南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
 
-海口
 
 三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
 
