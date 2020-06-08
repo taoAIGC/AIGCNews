@@ -70,7 +70,7 @@
 
 合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
 
-福州
+福州 https://github.com/BetterBetterChina/CityDeveloping/issues/31
 
 厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
 
