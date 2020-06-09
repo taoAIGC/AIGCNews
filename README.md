@@ -134,7 +134,7 @@
 
 兰州 https://github.com/BetterBetterChina/CityDeveloping/issues/33
 
-西宁
+西宁 https://github.com/BetterBetterChina/CityDeveloping/issues/24
 
 银川
 
