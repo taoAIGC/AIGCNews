@@ -114,7 +114,7 @@
 
 5、西南地区：
 
-成渝城市群 西部大开发 https://github.com/BetterBetterChina/CityDeveloping/issues/4
+成渝城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/4
 
 重庆 https://github.com/BetterBetterChina/CityDeveloping/issues/7
 
