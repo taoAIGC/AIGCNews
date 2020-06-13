@@ -95,14 +95,14 @@
 
 长沙
 
-广州 https://github.com/BetterBetterChina/CityDeveloping/issues/11
+广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
 
 南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
 
 
 三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
 
-深圳 https://github.com/BetterBetterChina/CityDeveloping/issues/26
+深圳都市圈（深圳 东莞 惠州 汕尾 河源) https://github.com/BetterBetterChina/CityDeveloping/issues/26
 
 珠海
 
