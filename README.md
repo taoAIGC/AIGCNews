@@ -42,7 +42,7 @@
 
 石家庄
 
-大同
+大同 https://github.com/BetterBetterChina/CityDeveloping/issues/40
 
 呼和浩特
 
@@ -98,7 +98,6 @@
 广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
 
 南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
-
 
 三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
 
