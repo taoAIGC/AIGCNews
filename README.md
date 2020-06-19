@@ -74,7 +74,7 @@
 
 厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
 
-南昌
+南昌 https://github.com/BetterBetterChina/CityDeveloping/issues/38
 
 济南 https://github.com/BetterBetterChina/CityDeveloping/issues/16
 
