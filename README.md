@@ -135,7 +135,7 @@
 
 西宁 https://github.com/BetterBetterChina/CityDeveloping/issues/24
 
-银川
+银川 https://github.com/BetterBetterChina/CityDeveloping/issues/41
 
 乌鲁木齐
 
