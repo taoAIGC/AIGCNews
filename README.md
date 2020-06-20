@@ -27,7 +27,7 @@
 
 - how
 
-具体包含如下地区(待补充链接)
+具体包含如下地区(部分地区待补充链接)
 
 
 1、华北地区：
@@ -40,16 +40,16 @@
 
 天津 https://github.com/BetterBetterChina/CityDeveloping/issues/37
 
-石家庄
+石家庄 https://github.com/BetterBetterChina/CityDeveloping/issues/42
 
 大同 https://github.com/BetterBetterChina/CityDeveloping/issues/40
 
-呼和浩特
+呼和浩特 https://github.com/BetterBetterChina/CityDeveloping/issues/43
 
 
 2、东北地区：
 
-沈阳
+沈阳 https://github.com/BetterBetterChina/CityDeveloping/issues/39
 
 大连 https://github.com/BetterBetterChina/CityDeveloping/issues/23
 
@@ -64,7 +64,7 @@
 
 上海 https://github.com/BetterBetterChina/CityDeveloping/issues/22
 
-南京
+南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
 
 浙江湾 杭州 https://github.com/BetterBetterChina/CityDeveloping/issues/14
 
@@ -93,7 +93,7 @@
 
 武汉 https://github.com/BetterBetterChina/CityDeveloping/issues/1
 
-长沙
+长沙 https://github.com/BetterBetterChina/CityDeveloping/issues/44
 
 广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
 
@@ -103,13 +103,11 @@
 
 深圳都市圈（深圳 东莞 惠州 汕尾 河源) https://github.com/BetterBetterChina/CityDeveloping/issues/26
 
-珠海
+澳门 珠海 https://github.com/BetterBetterChina/CityDeveloping/issues/45
 
-澳门
+香港 https://github.com/BetterBetterChina/CityDeveloping/issues/46
 
-香港
-
-台北
+台北 https://github.com/BetterBetterChina/CityDeveloping/issues/47
 
 5、西南地区：
 
@@ -119,11 +117,11 @@
 
 成都 https://github.com/BetterBetterChina/CityDeveloping/issues/9
 
-贵阳
+贵阳 https://github.com/BetterBetterChina/CityDeveloping/issues/48
 
 昆明 https://github.com/BetterBetterChina/CityDeveloping/issues/6
 
-拉萨
+拉萨 https://github.com/BetterBetterChina/CityDeveloping/issues/49
 
 南宁 https://github.com/BetterBetterChina/CityDeveloping/issues/35
 
@@ -137,5 +135,5 @@
 
 银川 https://github.com/BetterBetterChina/CityDeveloping/issues/41
 
-乌鲁木齐
+乌鲁木齐 https://github.com/BetterBetterChina/CityDeveloping/issues/50
 
