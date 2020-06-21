@@ -68,6 +68,8 @@
 
 浙江湾 杭州 https://github.com/BetterBetterChina/CityDeveloping/issues/14
 
+苏锡常 https://github.com/BetterBetterChina/CityDeveloping/issues/51
+
 合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
 
 福州 https://github.com/BetterBetterChina/CityDeveloping/issues/31
