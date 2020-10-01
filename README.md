@@ -139,6 +139,8 @@
 
 乌鲁木齐 https://github.com/BetterBetterChina/CityDeveloping/issues/50
 
+太原发展实录 https://github.com/BetterBetterChina/CityDeveloping/issues/52
+
 -----
 B站 「未来的城市」 https://space.bilibili.com/179121025
 
