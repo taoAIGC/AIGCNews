@@ -42,8 +42,6 @@
 
 石家庄 https://github.com/BetterBetterChina/CityDeveloping/issues/42
 
-大同 https://github.com/BetterBetterChina/CityDeveloping/issues/40
-
 呼和浩特 https://github.com/BetterBetterChina/CityDeveloping/issues/43
 
 
