@@ -68,14 +68,6 @@
 
 苏锡常 https://github.com/BetterBetterChina/CityDeveloping/issues/51
 
-合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
-
-福州 https://github.com/BetterBetterChina/CityDeveloping/issues/31
-
-厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
-
-南昌 https://github.com/BetterBetterChina/CityDeveloping/issues/38
-
 济南 https://github.com/BetterBetterChina/CityDeveloping/issues/16
 
 青岛 https://github.com/BetterBetterChina/CityDeveloping/issues/32
@@ -83,11 +75,7 @@
 宁波 https://github.com/BetterBetterChina/CityDeveloping/issues/18
 
 
-4、中南地区：
-
-粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
-
-海南特区 海口 https://github.com/BetterBetterChina/CityDeveloping/issues/30
+4、中部地区：
 
 郑州 https://github.com/BetterBetterChina/CityDeveloping/issues/19
 
@@ -95,19 +83,11 @@
 
 长沙 https://github.com/BetterBetterChina/CityDeveloping/issues/44
 
-广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
+合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
 
-南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
+南昌 https://github.com/BetterBetterChina/CityDeveloping/issues/38
 
-三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
-
-深圳都市圈（深圳 东莞 惠州 汕尾 河源) https://github.com/BetterBetterChina/CityDeveloping/issues/26
-
-澳门 珠海 https://github.com/BetterBetterChina/CityDeveloping/issues/45
-
-香港 https://github.com/BetterBetterChina/CityDeveloping/issues/46
-
-台北 https://github.com/BetterBetterChina/CityDeveloping/issues/47
+太原 https://github.com/BetterBetterChina/CityDeveloping/issues/52
 
 5、西南地区：
 
@@ -137,7 +117,29 @@
 
 乌鲁木齐 https://github.com/BetterBetterChina/CityDeveloping/issues/50
 
-太原发展实录 https://github.com/BetterBetterChina/CityDeveloping/issues/52
+
+
+7、东南地区
+
+粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
+
+海南特区 海口 https://github.com/BetterBetterChina/CityDeveloping/issues/30
+
+广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
+
+深圳都市圈（深圳 东莞 惠州 汕尾 河源) https://github.com/BetterBetterChina/CityDeveloping/issues/26
+
+三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
+
+福州 https://github.com/BetterBetterChina/CityDeveloping/issues/31
+
+厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
+
+澳门 珠海 https://github.com/BetterBetterChina/CityDeveloping/issues/45
+
+香港 https://github.com/BetterBetterChina/CityDeveloping/issues/46
+
+台北 https://github.com/BetterBetterChina/CityDeveloping/issues/47
 
 -----
 B站 「未来的城市」 https://space.bilibili.com/179121025
