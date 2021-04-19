@@ -144,8 +144,4 @@
 台北 https://github.com/BetterBetterChina/CityDeveloping/issues/47
 
 -----
-B站 「未来的城市」 https://space.bilibili.com/179121025
 
-微信公众号 「未来的城市」
-
-![image](https://user-images.githubusercontent.com/1812275/85204734-08369200-b349-11ea-86cd-8163087a95b0.png)
