@@ -1,147 +1,127 @@
-# CityDeveloping
-该项目从20年5月开始，以时间线形式，记录各城市的发展变化。具体内容在issue中，见下方的链接索引。
+# AIGC news AIGC每日信息差
+这里记录每天值得关注的AIGC相关内容，每日发布。欢迎留言投稿
 
+## 20230710
 
-- why
+### GPT相关
 
-我有搜索各地最新发展的爱好，但是发现周围人对于城市的发展建设都不太清楚。
+**1. 9号，ChatGPT代码解释器「1」测试版正式向所有Plus用户开放**
 
-中国城市的发展日新月异，但是如同在黑夜中工作的建设者一样，不被人所关注。
+代码解析器可令ChatGPT 运行代码，并且可以访问用户上传的文件，实现分析数据. 创建图表. 编辑文件. 执行数学运算等复杂操作。
 
-这些发展的情况，应该被更多人了解。
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/fc067563-bef4-494f-b424-c7c1591966b3)
 
-所以，我会每天更新搜索到的发展信息，更新进来。
 
-- what
+**2. OpenAI 全面开放 GPT-4 API「2」**
+   
+现所有付费API用户都可直接访问8K上下文的GPT-4，无需任何等待。
 
-内容围绕「直辖市」、「城市群」、「省会城市」、「计划单列市」的城市建设、产业建设为主。
+GPT-4可以接受图片作为输入并生成说明. 分类和分析。例如，输入一张包含鸡蛋. 面粉的图片，然后加上一句“我用这些原料可以做什么？”
 
-会以时间序为维度，体现出整个地区的发展脉络。
+GPT-4能够处理超过25000个单词的文本，允许使用长格式内容创建. 扩展对话以及文档搜索和分析等用例。
 
-视野有限，某些值得记录的事项可能会被遗漏，希望网友可以在评论中提醒，我再补充进去。
+**3. Chatgpt被起诉索赔30亿「3」**
+   
+16人匿名状告OpenAI 未经允许使用信息，还有2位全职作者提出OpenAI未经允许使用了他们的小说训练ChatGPT，构成侵权。
 
+**4. WPS AI 官网上线「4」**
 
-- when
+招募智能办公体验官, 支持
+> 缩写. 扩写. 续写. 风格转变
 
-尽量每天都会更新。
+> 自动生成PPT大纲
 
-- how
+> PDF文档概括
 
-具体包含如下地区：
+> 表格制作
 
+**5. 梅赛德斯-奔驰正在车辆生产中测试 ChatGPT「5」**
 
-1、华北地区：
+ChatGPT将作为一个通用的. 基于语音的界面支持生产员工，支持他们进行质量管理和流程优化等活动
 
-京津冀城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/34
+**6. 华为盘古大模型3.0发布「6」**
 
-北京 https://github.com/BetterBetterChina/CityDeveloping/issues/20
+华为云盘古大模型全栈技术均由华为自主创新的，没有采用任何开源技术，另外，由于华为云盘古大模型定位于赋能千行百业，这里面必将聚集无数行业大数据（涉及行业机密等），因此未来盘古大模型不会开源。
 
-雄安 https://github.com/BetterBetterChina/CityDeveloping/issues/29
+### 图片相关
 
-天津 https://github.com/BetterBetterChina/CityDeveloping/issues/37
+**1. MidJourney 将会在即将发布的第六版中实现场景扩展功能「7」**
 
-石家庄 https://github.com/BetterBetterChina/CityDeveloping/issues/42
+2023产业发展论坛上，David Holz 透露MidJourney 将会在即将发布的第六版中实现场景扩展功能，让图片展现出更丰富的内容。此外新版本还将加入新模式，将带来4-5倍的制图速度提升。
 
-呼和浩特 https://github.com/BetterBetterChina/CityDeveloping/issues/43
+霍尔茨透露，自己最喜欢读科幻书和中国古典文学，MidJourney的名字就来自庄子的庄周梦蝶，对应其中的“中道”。
 
 
-2、东北地区：
+### 行业政策及学术进展
 
-沈阳 https://github.com/BetterBetterChina/CityDeveloping/issues/39
+**1. 启动制订大模型测试国家标准「8」**
 
-大连 https://github.com/BetterBetterChina/CityDeveloping/issues/23
+百度华为阿里360等公司加入大模型标准化专题组。在2023世界人工智能大会上，宣布我国首个大模型标准化专题组组长由上海人工智能实验室与百度. 华为. 阿里. 360集团等企业联合担任，现场颁发证书并启动制订大模型测试国家标准。
 
-长春 https://github.com/BetterBetterChina/CityDeveloping/issues/28
+**2. 谷歌更新隐私政策「9」**
 
-哈尔滨 https://github.com/BetterBetterChina/CityDeveloping/issues/17
+谷歌更新隐私政策，爬取所有公开内容用于训练Al。
 
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/ddbeff81-078f-4a66-99f5-5ed1ed063518)
 
-3、华东地区：
 
-长三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/2
+**3. transformer的 Token 处理能力扩展到了10亿＋「10」**
 
-上海 https://github.com/BetterBetterChina/CityDeveloping/issues/22
+微软推出的LONGNET成功将Transformer的 Token 处理能力扩展到了10亿＋，意味着更复杂的AI互动成为可能。优点如下
 
-南京 https://github.com/BetterBetterChina/CityDeveloping/issues/3
+1）它具有线性计算复杂性；
 
-浙江湾 杭州 https://github.com/BetterBetterChina/CityDeveloping/issues/14
+2）它可以作为较长序列的分布式训练器；
 
-苏锡常 https://github.com/BetterBetterChina/CityDeveloping/issues/51
+3）dilatedattention可以无缝替代标准注意力，并可以与现有基于Transformer的优化方法无缝集成。
+[图片]
 
-济南 https://github.com/BetterBetterChina/CityDeveloping/issues/16
+### 行业研究报告
 
-青岛 https://github.com/BetterBetterChina/CityDeveloping/issues/32
+**1. 平安证券：从AIGC看商业银行数字化转型「11」**
+ 
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/8233d08d-bc18-4a5b-b2f6-396ed1b76193)
 
-宁波 https://github.com/BetterBetterChina/CityDeveloping/issues/18
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/a958ec4c-62d9-4a43-8c9f-1a52db3ab0cd)
 
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/46ba7526-c480-4427-ad5f-a8434de68e41)
 
-4、中部地区：
 
-郑州 https://github.com/BetterBetterChina/CityDeveloping/issues/19
+**2. 哈工大NLP组：ChatGPT调研报告「11」**
 
-武汉 https://github.com/BetterBetterChina/CityDeveloping/issues/1
+![哈工大ChatGPT报告2](https://github.com/taoAIGC/AIGCNews/assets/1812275/64f0d2e6-164e-4df2-a27a-a167e25e53a2)
 
-长沙 https://github.com/BetterBetterChina/CityDeveloping/issues/44
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/d8eeed66-8dcb-4aa6-9991-6edf0fc4adef)
 
-合肥 https://github.com/BetterBetterChina/CityDeveloping/issues/15
+![image](https://github.com/taoAIGC/AIGCNews/assets/1812275/77e99327-3e86-47d0-9db0-7ce561846b5e)
 
-南昌 https://github.com/BetterBetterChina/CityDeveloping/issues/38
 
-太原 https://github.com/BetterBetterChina/CityDeveloping/issues/52
+### 引用
 
-5、西南地区：
+「1」ChatGPT神器Code Interpreter终于开放，到底怎么用？ https://www.jiqizhixin.com/articles/2023-07-09-2
 
-西部陆海新通道 https://github.com/BetterBetterChina/CityDeveloping/issues/53
+「2」GPT-4 API可用了 https://openai.com/blog/gpt-4-api-general-availability
 
-成渝城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/4
+「3」openai被索赔 https://news.mydrivers.com/1/921/921599.htm
 
-重庆 https://github.com/BetterBetterChina/CityDeveloping/issues/7
 
-成都 https://github.com/BetterBetterChina/CityDeveloping/issues/9
+「4」wps ai 官网 https://ai.wps.cn/
 
-贵阳 https://github.com/BetterBetterChina/CityDeveloping/issues/48
+「5」奔驰在车辆生产中测试ChatGPT https://group.mercedes-benz.com/innovation/digitalisation/industry-4-0/chatgpt-in-vehicle-production.html
 
-昆明 https://github.com/BetterBetterChina/CityDeveloping/issues/6
+「6」华为开发者大会2023 https://developer.huaweicloud.com/HDC.Cloud2023.html
 
-拉萨 https://github.com/BetterBetterChina/CityDeveloping/issues/49
+「7」MidJourney 将增加场景扩展功能 https://finance.sina.com.cn/tech/roll/2023-07-07/doc-imyzvsqt8578976.shtml
 
-南宁 https://github.com/BetterBetterChina/CityDeveloping/issues/35
+「8」将正式启动制订大模型测试国家标准 https://finance.sina.com.cn/jjxw/2023-07-08/doc-imyzwuap4148364.shtml
 
-6、西北地区：
+「9」谷歌更新隐私政策 https://www.stcn.com/article/detail/911598.html
 
-西安 https://github.com/BetterBetterChina/CityDeveloping/issues/27
+「10」论文https://arxiv.org/pdf/2307.02486.pdf 项目地址
+https://github.com/microsoft/unilm/tree/master
 
-兰州 https://github.com/BetterBetterChina/CityDeveloping/issues/33
+「11」加微信号「livingtraveling」，发送报告原文件
 
-西宁 https://github.com/BetterBetterChina/CityDeveloping/issues/24
 
-银川 https://github.com/BetterBetterChina/CityDeveloping/issues/41
 
-乌鲁木齐 https://github.com/BetterBetterChina/CityDeveloping/issues/50
-
-
-
-7、东南地区
-
-粤港澳大湾区珠三角城市群 https://github.com/BetterBetterChina/CityDeveloping/issues/10
-
-海南特区 海口 https://github.com/BetterBetterChina/CityDeveloping/issues/30
-
-广州都市圈（广州、佛山、肇庆、清远、云浮和韶关） https://github.com/BetterBetterChina/CityDeveloping/issues/11
-
-深圳都市圈（深圳 东莞 惠州 汕尾 河源) https://github.com/BetterBetterChina/CityDeveloping/issues/26
-
-三亚  https://github.com/BetterBetterChina/CityDeveloping/issues/12 
-
-福州 https://github.com/BetterBetterChina/CityDeveloping/issues/31
-
-厦门 https://github.com/BetterBetterChina/CityDeveloping/issues/8
-
-澳门 珠海 https://github.com/BetterBetterChina/CityDeveloping/issues/45
-
-香港 https://github.com/BetterBetterChina/CityDeveloping/issues/46
-
-台北 https://github.com/BetterBetterChina/CityDeveloping/issues/47
-
------
 
