@@ -1,6 +1,86 @@
 # AIGC news AIGC每日信息差
 这里记录每天值得关注的AIGC相关内容，每日发布。欢迎留言投稿
 
+## 20230711
+### GPT相关
+
+1、华为云发布盘古大模型3.0和昇腾AI云服务「1」
+
+华为云CEO张平安表示，盘古大模型是一个完全面向行业的大模型，包括NLP大模型，多模态大模型，视觉大模型，预测大模型和科学计算大模型，针对政务、金融、制造、矿山等行业提供专用大模型，并可在各个垂直场景应用
+
+2、华为云盘古大模型不会对个人开放公测「2」
+
+华为云CTO张宇昕在华为开发者大会2023（Cloud）媒体沟通环节表示，华为云盘古大模型一直开放公测，但因为定位于行业大模型，所以不会对个人开放公测
+
+3、中国移动、中国电信发布人工智能行业大模型
+
+中国移动宣布发布九天人工智能行业大模型「3」，中国电信发布大语言模型TeleChat https://finance.sina.com.cn/jjxw/2023-07-07/doc-imyzwinr4946891.shtml
+
+### 图片相关
+
+1、Adobe为Firefly产生的版权纠纷负责「5」
+
+Adobe宣布，当用户使用其提供的AI图像生成工具FireflyforEnterprise时，如果因为使用AI生成的图片引发版权纠纷， Adobe将为相关法律费用提供全额赔偿。商业图库网站Shutterstock也宣布，对于平台上的AI生成图片，他们将承担责任
+
+2、调查：过半数艺术家认为 AI 作图无法帮助他们的工作「6」
+
+AI 艺术创作平台 Playform AI 进行了调查，收集了超过 500 名使用 DALL-E、Stable Diffusion 和 Midjourney 等平台的数字艺术家、传统画家、摄影师、插画家和平面设计师的回答。结果显示，只有 46% 的受访者认为这样的工具“非常有用”，而 32% 的受访者认为它们有一定的用处，但无法将它们融入自己的工作流程，22% 的用户没有发现它们有什么用处。
+
+### 视频相关
+
+1、YouTube推出AI生成的测验功能「7」
+
+youtube宣布人工智能生成的测验正在全球范围内向观看“一些”教育视频的一小部分用户推出。测验功能仅适用于英语内容的选定部分
+
+2、杭州文广集团探索短视频AIGC流水线「8」
+
+杭州文广集团已成功推出了国内首档全流程人工智能生成的全媒体短视频节目《冠军AI亚运》。该节目由文广主播的数字分身和冠军运动员的数字分身共同主持，节目中的超写真数字主播，无论是面部表情驱动，还是音色情感模仿，都与真人十分接近，实现了数据一次采集、节目内容无限高效生成的全新生产方式。
+
+### 行业政策及学术进展
+
+1、使用技术生成的图片、视频的，需明确标注系技术生成「9」
+
+加强“自媒体”管理，中央网信办发布13条管理规定，使用技术生成的图片、视频的，需明确标注系技术生成。
+
+
+### 行业研究报告
+
+1、中国AIGC产业全景报告「10」
+
+![中国AIGC产业全景报告——量子位智2库 ](https://github.com/taoAIGC/AIGCNews/assets/1812275/f12fa774-08f5-4ba9-8f4b-80e3de754d08)
+
+
+![中国AIGC产业全景报告——量子位智库5 ](https://github.com/taoAIGC/AIGCNews/assets/1812275/a86844f2-2a06-4bbd-9715-256e174ae7b5)
+
+
+![中国AIGC产业全景报告——量子位智库6 ](https://github.com/taoAIGC/AIGCNews/assets/1812275/f1cf21b3-989a-4dce-b030-a6001aa378f7)
+
+
+### 引用
+
+「1」华为云发布盘古大模型3.0和昇腾AI云服务 https://www.huaweicloud.com/news/2023/20230707171403928.html
+
+「2」华为云盘古大模型不会对个人开放公测 https://www.stcn.com/article/detail/913604.html
+
+「3」中国移动宣布发布九天人工智能行业大模型 https://finance.sina.com.cn/jjxw/2023-07-08/doc-imyzxvpv7437679.shtml
+
+「4」中国电信发布大语言模型TeleCha https://finance.sina.com.cn/jjxw/2023-07-07/doc-imyzwinr4946891.shtml
+
+「5」Adobe为Firefly产生的版权纠纷负责 https://www.computerworld.com/article/3699053/adobe-offers-copyright-indemnification-for-firefly-ai-based-image-app-users.html
+
+「6」过半数艺术家认为 AI 作图无法帮助他们的工作 https://www.newsdrum.in/international/the-folly-of-making-art-with-text-to-image-generative-ai
+
+「7」YouTube推出AI生成的测验功能 https://techcrunch.com/2023/07/07/youtube-tests-ai-generated-quizzes-on-educational-videos/
+
+「8」杭州文广集团探索短视频AIGC流水线 https://hznews.hangzhou.com.cn/chengshi/content/2023-07/10/content_8575203.htm
+
+「9」使用技术生成的图片、视频的，需明确标注系技术生成 https://m.yicai.com/news/101803745.html
+
+「10」加微信号「livingtraveling」，发送报告原文件
+
+
+
+
 ## 20230710
 
 ### GPT相关
